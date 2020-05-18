@@ -1,5 +1,3 @@
-""" Flash card program """
-
 import os
 import random
 from tkinter import *
@@ -105,8 +103,6 @@ def cards():
     name2.pack()
     global cardMode
     cardMode = True
-
-# When desc > 49 \n
 
     def key(event):
         global cardMode
