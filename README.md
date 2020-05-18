@@ -1,7 +1,7 @@
 # FlashCards
 
 ### Introduction
-This flashcards program was meant to help studying a broad range of topics. If the program is being run for the first time, there will be a new file named "database" created. 
+This flashcards program was meant to help studying a broad range of topics. If the program is being run for the first time, there will be a new file named "database" created. From there, flashcards can be saved into files, then displayed from a GUI.
 
 
 ### Usage
@@ -24,6 +24,9 @@ Below the text entries, there are four different buttons:
 
 * Help: Gives a summary of what each button and text entry is for.
 
+When files are saved onto a file, it will be in the following format:
+```front::back``
+
 ### Examples
 
 To create a new file called "Spanish", and save a flashcard with the front saying "hello", and back saying "hola"
@@ -36,9 +39,6 @@ The front and back of the flashcard will now contain the words "hello" and "hola
 
 ![](/images/back.png)
 
-This flash card and all others under the category "Spanish" will be saved to the following file using this format
-
-![](/images/Directory.png)
 
 ### Launch
 
