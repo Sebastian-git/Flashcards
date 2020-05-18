@@ -1,7 +1,7 @@
 # FlashCards
 
 ### Introduction
-This flashcards program was meant to help studying a broad range of topics. Flashcards can be saved into files, then displayed from a GUI.
+This flashcards program was meant to help studying a broad range of topics. Flashcards for any topic can be saved into a file with a front name and a back description for later viewing from a GUI.
 
 
 ### Usage
@@ -26,6 +26,10 @@ Below the text entries, there are four different buttons:
 
 When files are saved onto a file, it will be in the following format:
 ``` front::back ```
+
+To flip flashcards back and forth, press ``` space ```
+
+To skip to the next card, press ``` enter ```
 
 ### Examples
 
