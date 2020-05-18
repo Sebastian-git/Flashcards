@@ -1,8 +1,12 @@
 # FlashCards
 
 ### Introduction
-This flashcards program was meant to help studying a broad range of topics. If the program is being run for the first time, there will be a new file named "database" created. There are three text entry options:
+This flashcards program was meant to help studying a broad range of topics. If the program is being run for the first time, there will be a new file named "database" created. 
 
+
+### Usage
+
+There are three text entry options:
 
 * Category - Turns into the name of the new file that will be used for storing the flashcards.
 
@@ -30,7 +34,7 @@ If you want to create a new file called "Spanish", and save a flashcard with the
 
 ![](/images/submission.png)
 
-The front and back will look as follows.
+The front and back will look like this
 
 ![](/images/front.png)
 
