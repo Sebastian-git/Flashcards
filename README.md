@@ -50,6 +50,6 @@ Python 3.6.3
 
 ### Status
 
-In progress
+Completed
 
 #### [back to the top](#flashcards)
