@@ -48,4 +48,8 @@ The front and back of the flashcard will now contain the words "hello" and "hola
 
 Python 3.6.3
 
+### Status
+
+In progress
+
 #### [back to the top](#flashcards)
