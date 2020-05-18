@@ -1,7 +1,7 @@
 # FlashCards
 
 ### Introduction
-This flashcards program was meant to help studying a broad range of topics. If the program is being run for the first time, there will be a new file named "database" created. From there, flashcards can be saved into files, then displayed from a GUI.
+This flashcards program was meant to help studying a broad range of topics. Flashcards can be saved into files, then displayed from a GUI.
 
 
 ### Usage
@@ -25,7 +25,7 @@ Below the text entries, there are four different buttons:
 * Help: Gives a summary of what each button and text entry is for.
 
 When files are saved onto a file, it will be in the following format:
-```front::back``
+``` front::back ```
 
 ### Examples
 
