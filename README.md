@@ -26,21 +26,17 @@ Below the text entries, there are four different buttons:
 
 ### Examples
 
-When the program is run, the following will be displayed
-
-![](/images/preview.png)
-
-``` To create a new file called "Spanish", and save a flashcard with the front saying "hello", and back saying "hola" ```
+To create a new file called "Spanish", and save a flashcard with the front saying "hello", and back saying "hola"
 
 ![](/images/submission.png)
 
-``` The front and back will look like this ```
+The front and back of the flashcard will now contain the words "hello" and "hola" respectively
 
 ![](/images/front.png)
 
 ![](/images/back.png)
 
-``` This flash card and all others under the category "Spanish" will be saved to the following file using this format ```
+This flash card and all others under the category "Spanish" will be saved to the following file using this format
 
 ![](/images/Directory.png)
 
